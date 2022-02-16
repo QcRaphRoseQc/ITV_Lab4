@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ecole\\Session 3\\Infrastructure\\Lab4\\src\\Lab4\\Lab4.csproj": {}
+    "C:\\Ecole Tower\\Session 3\\Infrastructure\\TP4\\ITV_Lab4\\src\\Lab4\\Lab4.csproj": {}
   },
   "projects": {
-    "C:\\Ecole\\Session 3\\Infrastructure\\Lab4\\src\\Lab4\\Lab4.csproj": {
+    "C:\\Ecole Tower\\Session 3\\Infrastructure\\TP4\\ITV_Lab4\\src\\Lab4\\Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ecole\\Session 3\\Infrastructure\\Lab4\\src\\Lab4\\Lab4.csproj",
+        "projectUniqueName": "C:\\Ecole Tower\\Session 3\\Infrastructure\\TP4\\ITV_Lab4\\src\\Lab4\\Lab4.csproj",
         "projectName": "Lab4",
-        "projectPath": "C:\\Ecole\\Session 3\\Infrastructure\\Lab4\\src\\Lab4\\Lab4.csproj",
+        "projectPath": "C:\\Ecole Tower\\Session 3\\Infrastructure\\TP4\\ITV_Lab4\\src\\Lab4\\Lab4.csproj",
         "packagesPath": "C:\\Users\\virgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Ecole\\Session 3\\Infrastructure\\Lab4\\src\\Lab4\\obj\\",
+        "outputPath": "C:\\Ecole Tower\\Session 3\\Infrastructure\\TP4\\ITV_Lab4\\src\\Lab4\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\virgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
